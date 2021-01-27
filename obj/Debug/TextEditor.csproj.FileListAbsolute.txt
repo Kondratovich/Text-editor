@@ -1,0 +1,13 @@
+D:\Шарпы\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Шарпы\TextEditor\bin\Debug\TextEditor.exe
+D:\Шарпы\TextEditor\bin\Debug\TextEditor.pdb
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.exe
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.pdb
+D:\Шарпы\TextEditor\bin\Debug\TextEditor.BL.dll
+D:\Шарпы\TextEditor\bin\Debug\TextEditor.BL.pdb
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.MainForm.resources
+D:\Шарпы\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
